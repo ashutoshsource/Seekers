@@ -1,0 +1,17 @@
+PROJECT THEORY 
+. Create a folder as Seekers -> Open it into VS Code
+. Make index.html file and 2 folder as 
+                                      .css=>[create file as utils.css and style.css]
+                                      .js.
+. Now Start with index.html
+                     ->title as Seekers : Heaven for bloggers
+        inside body  -> (nav.navigation) to create a nav
+                     -> (div.content) to create a div bar for writing all content
+                     -> (div.footer) to create a footer
+        inside head above title-> link:css to link your css files  
+. Create other html files as [blog.hmtl, search.html, content.html ]
+
+
+
+note:  css topics to cover =flexbox?
+      =floats?
